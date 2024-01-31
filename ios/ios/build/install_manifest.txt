@@ -1,0 +1,5 @@
+/Users/younghwanyu/POAI/mlc-llm/ios/build/lib/libmlc_llm.a
+/Users/younghwanyu/POAI/mlc-llm/ios/build/lib/libtokenizers_cpp.a
+/Users/younghwanyu/POAI/mlc-llm/ios/build/lib/libsentencepiece.a
+/Users/younghwanyu/POAI/mlc-llm/ios/build/lib/libtvm_runtime.a
+/Users/younghwanyu/POAI/mlc-llm/ios/build/lib/libtokenizers_c.a
